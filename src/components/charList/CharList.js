@@ -79,11 +79,19 @@ const CharList = (props) => {
                         onClick={() => {
                             props.onCharSelected(item.id);
                             focusOnItem(i);
+                            window.scrollTo({
+                                top: 300,
+                                left: 0,
+                            })
                         }}
                         onKeyPress={(e) => {
                             if (e.key === ' ' || e.key === "Enter") {
                                 props.onCharSelected(item.id);
                                 focusOnItem(i);
+                                window.scrollTo({
+                                    top: 300,
+                                    left: 0,
+                                })
                             }
                         }}>
                         <img src={item.thumbnail} alt={item.name} style={imgStyle}/>
