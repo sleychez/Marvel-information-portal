@@ -8,15 +8,15 @@
     "main.css": "/Marvel-information-portal/static/css/main.bae59481.chunk.css",
     "main.js": "/Marvel-information-portal/static/js/main.95b0d91d.chunk.js",
     "main.js.map": "/Marvel-information-portal/static/js/main.95b0d91d.chunk.js.map",
-    "runtime-main.js": "/Marvel-information-portal/static/js/runtime-main.72b64633.js",
-    "runtime-main.js.map": "/Marvel-information-portal/static/js/runtime-main.72b64633.js.map",
+    "runtime-main.js": "/Marvel-information-portal/static/js/runtime-main.5a714a06.js",
+    "runtime-main.js.map": "/Marvel-information-portal/static/js/runtime-main.5a714a06.js.map",
     "static/js/4.5c7641be.chunk.js": "/Marvel-information-portal/static/js/4.5c7641be.chunk.js",
     "static/js/4.5c7641be.chunk.js.map": "/Marvel-information-portal/static/js/4.5c7641be.chunk.js.map",
     "static/js/5.faa22f18.chunk.js": "/Marvel-information-portal/static/js/5.faa22f18.chunk.js",
     "static/js/5.faa22f18.chunk.js.map": "/Marvel-information-portal/static/js/5.faa22f18.chunk.js.map",
     "static/css/6.cdda045e.chunk.css": "/Marvel-information-portal/static/css/6.cdda045e.chunk.css",
-    "static/js/6.35bf6fe8.chunk.js": "/Marvel-information-portal/static/js/6.35bf6fe8.chunk.js",
-    "static/js/6.35bf6fe8.chunk.js.map": "/Marvel-information-portal/static/js/6.35bf6fe8.chunk.js.map",
+    "static/js/6.d9999f0c.chunk.js": "/Marvel-information-portal/static/js/6.d9999f0c.chunk.js",
+    "static/js/6.d9999f0c.chunk.js.map": "/Marvel-information-portal/static/js/6.d9999f0c.chunk.js.map",
     "static/css/7.1d95d627.chunk.css": "/Marvel-information-portal/static/css/7.1d95d627.chunk.css",
     "static/js/7.f9f4ad95.chunk.js": "/Marvel-information-portal/static/js/7.f9f4ad95.chunk.js",
     "static/js/7.f9f4ad95.chunk.js.map": "/Marvel-information-portal/static/js/7.f9f4ad95.chunk.js.map",
@@ -49,7 +49,7 @@
     "static/media/vision.067d4ae1.png": "/Marvel-information-portal/static/media/vision.067d4ae1.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.72b64633.js",
+    "static/js/runtime-main.5a714a06.js",
     "static/js/5.faa22f18.chunk.js",
     "static/css/main.bae59481.chunk.css",
     "static/js/main.95b0d91d.chunk.js"
